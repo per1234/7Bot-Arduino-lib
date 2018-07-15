@@ -5,12 +5,12 @@
 #######################################
 # Class (KEYWORD1)
 #######################################
-Arm7Bot	KEYWORD1	Arm7Bot
-ForceFilter	KEYWORD1	ForceFilter
-MedianFilter	KEYWORD1	MedianFilter
-PressFilter	KEYWORD1	PressFilter
-PVector	KEYWORD1	PVector
-ARMPORT	KEYWORD1    Arm
+Arm7Bot	KEYWORD1
+ForceFilter	KEYWORD1
+MedianFilter	KEYWORD1
+PressFilter	KEYWORD1
+PVector	KEYWORD1
+ARMPORT	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
